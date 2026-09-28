@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         OOLM
+// @name         OLM Helper Mobile
 // @namespace    olm.mobile
-// @version      3.6
+// @version      1.0.0
 // @description  Xem đáp án OLM trên điện thoại, chặn nộp bài, fake thời gian làm bài.
 // @author       anon
 // @match        https://olm.vn/*
